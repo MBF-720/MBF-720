@@ -68,25 +68,9 @@
 - 🧠 **Sylexi** — AI-powered mobile learning support for students with dyslexia
 - ⛓️ **Chronos** — Decentralized campus asset management powered by AI and blockchain
 - 🏆 **Arena of Coders** — Hackathon platform with AI features, NFT certificates, and blockchain rewards
-- 🚗 **RideShare** — University carpooling platform with intelligent route optimization
+- 🚗 **Covoituni** — University carpooling platform with intelligent route optimization
 - 📚 **AfricAR** — Native Android educational platform integrating augmented reality
 
-## 📊 GitHub Activity
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=MBF-720&show_icons=true&theme=tokyonight&hide_border=true" alt="Mohamed's GitHub stats">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MBF-720&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages">
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=MBF-720&theme=tokyonight&hide_border=true" alt="GitHub contribution streak">
-</p>
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MBF-720&theme=tokyonight&no-frame=true&margin-w=12&row=1" alt="GitHub trophies">
-</p>
 
 ## 🌍 Connect With Me
 
