@@ -71,6 +71,28 @@
 - 🚗 **Covoituni** — University carpooling platform with intelligent route optimization
 - 📚 **AfricAR** — Native Android educational platform integrating augmented reality
 
+## 🏅 Certifications
+
+- ⛓️ **Hedera Certified Foundation (HCF)** — The Hashgraph Association
+- 🔗 **Hedera Developer Certification** — The Hashgraph Association
+- 📚 **Hashgraph Developer Course** — The Hashgraph Association
+- 🌐 **Cisco CCNA**
+- 💬 **Communication Master** — Accenture
+- ⛓️ **Blockchain Fundamentals** — Dar Blockchain
+
+## 🌍 Beyond Code
+
+Outside software engineering, I have always been involved in **cinema, culture and international experiences**.
+
+🎬 **Filmmaking** has been a major part of my journey. I've worked on short films across directing, editing and production, and had the opportunity to participate in international film experiences in **Morocco 🇲🇦 and Jordan 🇯🇴**, while also collaborating with film students and young creatives from different countries here in Tunisia.
+
+🌍 **Travel and international collaboration** have pushed me outside my comfort zone and exposed me to different cultures, perspectives and ways of working. These experiences taught me how to communicate with people from very different backgrounds, adapt quickly and work effectively in multicultural teams.
+
+🎭 Through **Layeli Stage**, I also work with young talents to create opportunities for them to express themselves, perform and bring their ideas to life. Being involved in organizing events and working with artists has helped me develop **leadership, communication, teamwork, organization and problem-solving skills**.
+
+These experiences have shaped me beyond my technical skills. They taught me to **take initiative, work with people, lead projects, adapt to new environments and turn ideas into something real**.
+
+I believe these qualities are just as important in building great software as they are in building great projects.
 
 ## 🌍 Connect With Me
 
