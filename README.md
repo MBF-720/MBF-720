@@ -102,7 +102,7 @@ I believe these qualities are just as important in building great software as th
 
 <p align="center"><i>“Building technology that creates real-world impact through innovation.”</i></p>
 
-## 🎮 Contribution Graph Game
+## 🎮 Contribution Graph 
 
 <!-- breakout -->
 <picture>
