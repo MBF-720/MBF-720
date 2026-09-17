@@ -106,7 +106,7 @@ I believe these qualities are just as important in building great software as th
 
 <!-- breakout -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MBF-720/MBF-720/output/breakout-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MBF-720/MBF-720/output/breakout-contribution-graph.svg">
-  <img alt="breakout contribution graph" src="https://raw.githubusercontent.com/MBF-720/MBF-720/output/breakout-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MBF-720/MBF-720/pacman-output/breakout-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MBF-720/MBF-720/pacman-output/breakout-contribution-graph.svg">
+  <img alt="breakout contribution graph" src="https://raw.githubusercontent.com/MBF-720/MBF-720/pacman-output/breakout-contribution-graph.svg">
 </picture>
