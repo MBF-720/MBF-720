@@ -102,9 +102,7 @@ I believe these qualities are just as important in building great software as th
 
 <p align="center"><i>“Building technology that creates real-world impact through innovation.”</i></p>
 
-<div data-importer="music" align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
-</div>
+
 
 ###
 
