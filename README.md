@@ -98,7 +98,7 @@ I believe these qualities are just as important in building great software as th
 
 <p align="center">
   <a href="https://github.com/MBF-720"><img src="https://img.shields.io/badge/GitHub-MBF--720-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile"></a>
-  <a href="mailto:mohamedbenfredj8@gmail.com"><img src="https://img.shields.io/badge/Gmail-mohamedbenfredj8%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+  <a href="mailto:mohamedbenfredj8@gmail.com"><img src="https://img.shields.io/badge/-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me"></a>
 </p>
 
 <p align="center"><i>“Building technology that creates real-world impact through innovation.”</i></p>
