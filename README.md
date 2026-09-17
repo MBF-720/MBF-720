@@ -101,3 +101,21 @@ I believe these qualities are just as important in building great software as th
 </p>
 
 <p align="center"><i>“Building technology that creates real-world impact through innovation.”</i></p>
+
+<div data-importer="music" align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
+</div>
+
+###
+
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mbf-720/mbf-720/pacman-output/breakout-contribution-graph-dark.svg?game=breakout">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mbf-720/mbf-720/pacman-output/breakout-contribution-graph.svg?game=breakout">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/mbf-720/mbf-720/pacman-output/breakout-contribution-graph.svg?game=breakout">
+</picture>
+
+###
+
+<p data-importer="text" align="left">Hello World!!</p>
+
+###
